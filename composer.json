@@ -12,7 +12,7 @@
         "ext-json": "*",
         "ext-pdo": "*",
         "monolog/monolog": "^2.9",
-        "php-di/php-di": "^6.4",
+        "php-di/php-di": "^7.0",
         "selective/basepath": "^2.1",
         "slim/psr7": "^1.6",
         "slim/slim": "^4.11"
